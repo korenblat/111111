@@ -5,7 +5,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-
+/** comment*/
 public class mysqlConnection {
 
 	public static void main(String[] args) 
